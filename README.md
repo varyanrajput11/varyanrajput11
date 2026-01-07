@@ -1,4 +1,4 @@
-                                        ![Banner](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWY5YnF2djVhM3JpZWhsOG9kcmRvMGloYnA4aXQ3bnBzaXowdmR2ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)
+  ![Banner](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWY5YnF2djVhM3JpZWhsOG9kcmRvMGloYnA4aXQ3bnBzaXowdmR2ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)
 
 👋 Hi, I'm Aryan
 
