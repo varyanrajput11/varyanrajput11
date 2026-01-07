@@ -1,4 +1,5 @@
-![Banner](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWY5YnF2djVhM3JpZWhsOG9kcmRvMGloYnA4aXQ3bnBzaXowdmR2ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)
+                                        ![Banner](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWY5YnF2djVhM3JpZWhsOG9kcmRvMGloYnA4aXQ3bnBzaXowdmR2ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)
+
 👋 Hi, I'm Aryan
 
 🎯 Senior QA / SDET | Automation & Quality Engineering Specialist
@@ -40,11 +41,10 @@ SQL · API Contract Validation · Integration Testing
 🧪 Automation Framework POC (Self-Healing Tests)
 Designed a TestNG + Playwright framework with resilient locator strategies to demonstrate self-healing concepts for UI automation interviews.
 
-
-
 📫 Get in Touch
 
 📧 Email: v.aryanrajput@gmail.com
 
 🔗 LinkedIn: www.linkedin.com/in/aryanrajput11
+
 🌍 Location: Dublin, Ireland
